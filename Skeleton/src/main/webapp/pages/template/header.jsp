@@ -41,7 +41,6 @@
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="/Skeleton">Welcome</a></li>
                                                                 <li><a href="/Skeleton">Sign Up</a></li>
 								<li><a href="team">Team Registration</a></li>
                                                                 <li><a href="users">Users</a></li>
