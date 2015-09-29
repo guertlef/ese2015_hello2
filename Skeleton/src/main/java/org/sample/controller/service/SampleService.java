@@ -12,5 +12,6 @@ public interface SampleService {
     public SignupForm saveFrom(SignupForm signupForm) throws InvalidUserException;
     public TeamForm saveFrom(TeamForm teamForm) throws InvalidTeamException;
     public Iterable<Team> getSelectableTeams();
+    public Iterable<User> getAllUsers();
     public User getUserById(Long id);
 }

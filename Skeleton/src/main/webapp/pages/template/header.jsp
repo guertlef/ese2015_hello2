@@ -42,12 +42,13 @@
 						<nav id="nav">
 							<ul>
 								<li><a href="/Skeleton">Welcome</a></li>
+                                                                <li><a href="/Skeleton">Sign Up</a></li>
+								<li><a href="team">Team Registration</a></li>
+                                                                <li><a href="users">Users</a></li>
 								<li>
 									<a href="">Dropdown</a>
 									<ul>
-										<li><a href="/Skeleton">Sign Up</a></li>
-										<li><a href="team">Team Registration</a></li>
-                                                                                <li><a href="#">Find User</a></li>
+										
 										<li>
 											<a href="#">jiomj ior</a>
 											<ul>
@@ -60,8 +61,7 @@
 										<li><a href="#">Veroeros feugiat</a></li>
 									</ul>
 								</li>
-								<li><a href="left-sidebar.html">Left Sidebar</a></li>
-								<li><a href="right-sidebar.html">Right Sidebar</a></li>
+								
 								<li class="current"><a href="no-sidebar.html">No Sidebar</a></li>
 							</ul>
 						</nav>

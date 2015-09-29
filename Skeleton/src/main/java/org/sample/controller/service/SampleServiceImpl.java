@@ -74,7 +74,13 @@ public class SampleServiceImpl implements SampleService {
         return teamDao.findAll();
     }
 
+    
+    public Iterable<User> getAllUsers() {
+        return userDao.findAll();
+    }
+    
     public User getUserById(Long id) {
         return userDao.findOne(id);
     }
+
 }
